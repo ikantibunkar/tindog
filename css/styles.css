@@ -1,0 +1,102 @@
+#title{
+    background-color: #ff4c68;
+}  
+body{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+h1{
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+    color : white
+}
+h2{
+    font: 1.5rem;
+    font-weight: bolder;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.iphone-img{
+    transform: rotate(25deg);
+    width: 60%;
+    margin-left: 100px;
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+/* download button */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+h3{
+
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.p1{
+    color: gainsboro;
+    font-size: 1rem;
+}
+.icon{
+    color : #ef81 72;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+/* Feature box */
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+/* testimonials-section */
+#testimonials{
+    text-align: center;
+    background-color: #ff4c64;
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+
+#press {
+    
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #ff4c64;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 15% 20px;
+
+}
+/* pricing section */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column {
+    padding: 3% 2%;
+}
